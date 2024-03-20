@@ -14,13 +14,13 @@ ArXiv, 2021.
 *朱向雷， 王海弛， 尤翰墨， 张蔚珩， 张颖异， 刘爽, et al.*<br>
 软件学报, 2021.
 
-## White box test
+## Metrics
 
-**Deepxplore: Automated whitebox testing of deep learning systems.**<br>
-*K Pei, Y Cao, J Yang, S Jana.*<br>
-SOSP, 2017.
+**Quality metrics and oracles for autonomous vehicles testing.**<br>
+*G Jahangirova, A Stocco, et al.*<br>
+ICST, 2021.
 
-## Simulations
+## AD Simulations
 
 **Lidarsim: Realistic lidar simulation by leveraging the real world.**<br>
 *S Manivasagam, S Wang, K Wong, et al.*<br>
@@ -94,18 +94,6 @@ ArXiv, 2021.
 *X Zhang, J Tao, K Tan, M Törngren, et al.*<br>
 ArXiv, 2021.
 
-## Metrics
-
-**Quality metrics and oracles for autonomous vehicles testing.**<br>
-*G Jahangirova, A Stocco, et al.*<br>
-ICST, 2021.
-
-## Multi-model
-
-**Detecting Safety Problems of Multi-Sensor Fusion in Autonomous Driving.**<br>
-*Z Zhong, Z Hu, S Guo, X Zhang, Z Zhong, et al.*<br>
-ArXiv, 2022.
-
 ## Black box test
 
 **Deeptest: Automated testing of deep-neural-network-driven autonomous cars.**<br>
@@ -119,3 +107,15 @@ RAL, 2020.
 **Testing deep learning based visual perception for automated driving.**<br>
 *S Abrecht, L Gauerhof, C Gladisch, K Groh, et al.*<br>
 ACM Transactions on Cyber-Physical Systems, 2021.
+
+## Multi-model
+
+**Detecting Safety Problems of Multi-Sensor Fusion in Autonomous Driving.**<br>
+*Z Zhong, Z Hu, S Guo, X Zhang, Z Zhong, et al.*<br>
+ArXiv, 2022.
+
+## White box test
+
+**Deepxplore: Automated whitebox testing of deep learning systems.**<br>
+*K Pei, Y Cao, J Yang, S Jana.*<br>
+SOSP, 2017.
